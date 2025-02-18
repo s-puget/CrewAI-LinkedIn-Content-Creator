@@ -26,7 +26,7 @@ CrewAI-LinkedIn-Content-Creator/
 
 
 ## Setup
-1. Install dependencies using `requirements.txt`.
+1. Install dependencies by running `pip install -r requirements.txt`.
 2. Set API keys in a `.env` file:  
 `OPENAI_API_KEY=your_openai_api_key`   
 `SERPER_API_KEY=your_serper_api_key`
