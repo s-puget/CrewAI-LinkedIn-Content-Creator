@@ -1,6 +1,6 @@
-# AI-Powered LinkedIn Content Generator
+# CrewAI LinkedIn Content Generator
 
-This project automates the generation of engaging and relevant LinkedIn posts on trending AI and technology topics using CrewAI.
+This project automates the generation of engaging and relevant LinkedIn posts on trending AI and technology topics using **CrewAI**.
 
 ## Features
 - **Automated Research:** Fetches trending AI and tech topics from the web.
