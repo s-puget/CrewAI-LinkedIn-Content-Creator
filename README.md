@@ -14,13 +14,10 @@ This project automates the generation of engaging and relevant LinkedIn posts on
 ```bash
 CrewAI-LinkedIn-Content-Creator/
 │── src/
-│ │── init.py
 │ │── main.py
 │ │── agents.py
 │ │── tasks.py
 │ │── crew.py
-│ │── config.py
-│ │── utils.py
 │── covered_topics.txt
 │── crewai_agent_system_post_generator.ipynb
 │── requirements.txt
