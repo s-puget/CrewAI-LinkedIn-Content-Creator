@@ -30,7 +30,7 @@ CrewAI-LinkedIn-Content-Creator/
 2. Set API keys in a `.env` file:  
 `OPENAI_API_KEY=your_openai_api_key`   
 `SERPER_API_KEY=your_serper_api_key`
-3. Run `main.py` to generate a LinkedIn post.
+3. Run `src/main.py` to generate a LinkedIn post.
 
 ## How It Works
 1. **Research:** Fetches trending AI topics.
